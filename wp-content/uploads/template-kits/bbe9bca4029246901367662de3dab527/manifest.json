@@ -1,0 +1,3147 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "Indusc",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/indusc.radiantthemes.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Contact",
+            "screenshot": "screenshots\/metform-contact.png",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/indusc.radiantthemes.com\/template-kit\/metform-contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Style One",
+            "screenshot": "screenshots\/header-style-one.jpg",
+            "source": "templates\/header-style-one.json",
+            "preview_url": "https:\/\/indusc.radiantthemes.com\/template-kit\/header-style-one\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Style Two",
+            "screenshot": "screenshots\/header-style-two.jpg",
+            "source": "templates\/header-style-two.json",
+            "preview_url": "https:\/\/indusc.radiantthemes.com\/template-kit\/header-style-two\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Style Three",
+            "screenshot": "screenshots\/header-style-three.jpg",
+            "source": "templates\/header-style-three.json",
+            "preview_url": "https:\/\/indusc.radiantthemes.com\/template-kit\/header-style-three\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer Style One",
+            "screenshot": "screenshots\/footer-style-one.jpg",
+            "source": "templates\/footer-style-one.json",
+            "preview_url": "https:\/\/indusc.radiantthemes.com\/template-kit\/footer-style-one\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer Style Two",
+            "screenshot": "screenshots\/footer-style-two.jpg",
+            "source": "templates\/footer-style-two.json",
+            "preview_url": "https:\/\/indusc.radiantthemes.com\/template-kit\/footer-style-two\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Version One",
+            "screenshot": "screenshots\/home-version-one.jpg",
+            "source": "templates\/home-version-one.json",
+            "preview_url": "https:\/\/indusc.radiantthemes.com\/template-kit\/home-version-one\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Version Two",
+            "screenshot": "screenshots\/home-version-two.jpg",
+            "source": "templates\/home-version-two.json",
+            "preview_url": "https:\/\/indusc.radiantthemes.com\/template-kit\/home-version-two\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Version Three",
+            "screenshot": "screenshots\/home-version-three.jpg",
+            "source": "templates\/home-version-three.json",
+            "preview_url": "https:\/\/indusc.radiantthemes.com\/template-kit\/home-version-three\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/indusc.radiantthemes.com\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service",
+            "screenshot": "screenshots\/service.jpg",
+            "source": "templates\/service.json",
+            "preview_url": "https:\/\/indusc.radiantthemes.com\/template-kit\/service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing Plan",
+            "screenshot": "screenshots\/pricing-plan.png",
+            "source": "templates\/pricing-plan.json",
+            "preview_url": "https:\/\/indusc.radiantthemes.com\/template-kit\/pricing-plan\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/indusc.radiantthemes.com\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Faq",
+            "screenshot": "screenshots\/faq.png",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/indusc.radiantthemes.com\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/indusc.radiantthemes.com\/template-kit\/blog\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog Details",
+            "screenshot": "screenshots\/blog-details.jpg",
+            "source": "templates\/blog-details.json",
+            "preview_url": "https:\/\/indusc.radiantthemes.com\/template-kit\/blog-details\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/indusc.radiantthemes.com\/template-kit\/404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.3.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.3.4",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.3",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "Image Hover Effects - Elementor Addon",
+            "version": "1.3.4",
+            "file": "image-hover-effects-addon-for-elementor\/image-hover-effects-addon-for-elementor.php",
+            "author": "Blocksera"
+        },
+        {
+            "name": "LA-Studio Element Kit for Elementor",
+            "version": "1.0.3.2",
+            "file": "lastudio-element-kit\/lastudio-element-kit.php",
+            "author": "LA-Studio"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.5.1",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Vector.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/Vector.png",
+            "templates": [
+                {
+                    "source": "templates\/header-style-one.json",
+                    "name": "Header Style One"
+                },
+                {
+                    "source": "templates\/header-style-two.json",
+                    "name": "Header Style Two"
+                },
+                {
+                    "source": "templates\/header-style-three.json",
+                    "name": "Header Style Three"
+                }
+            ],
+            "filesize": 282,
+            "dimensions": [
+                18,
+                18
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/telephone_159832?term=phone&page=1&position=9&page=1&position=9&related_id=159832&origin=search"
+        },
+        {
+            "filename": "messege-icon.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/messege-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/header-style-one.json",
+                    "name": "Header Style One"
+                },
+                {
+                    "source": "templates\/header-style-two.json",
+                    "name": "Header Style Two"
+                },
+                {
+                    "source": "templates\/header-style-three.json",
+                    "name": "Header Style Three"
+                }
+            ],
+            "filesize": 634,
+            "dimensions": [
+                27,
+                22
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/mail_546394?term=message&page=1&position=31&page=1&position=31&related_id=546394&origin=search"
+        },
+        {
+            "filename": "footer-logo.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/footer-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header-style-one.json",
+                    "name": "Header Style One"
+                },
+                {
+                    "source": "templates\/footer-style-one.json",
+                    "name": "Footer Style One"
+                },
+                {
+                    "source": "templates\/footer-style-two.json",
+                    "name": "Footer Style Two"
+                }
+            ],
+            "filesize": 868,
+            "dimensions": [
+                139,
+                33
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "home-three-logo.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/home-three-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header-style-two.json",
+                    "name": "Header Style Two"
+                },
+                {
+                    "source": "templates\/header-style-three.json",
+                    "name": "Header Style Three"
+                }
+            ],
+            "filesize": 863,
+            "dimensions": [
+                139,
+                33
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "time-icon.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/time-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-one.json",
+                    "name": "Footer Style One"
+                }
+            ],
+            "filesize": 352,
+            "dimensions": [
+                21,
+                20
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/premium-icon\/clock_896442?term=clock&page=1&position=8&page=1&position=8&related_id=896442&origin=search"
+        },
+        {
+            "filename": "mail.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/mail.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-one.json",
+                    "name": "Footer Style One"
+                },
+                {
+                    "source": "templates\/footer-style-two.json",
+                    "name": "Footer Style Two"
+                }
+            ],
+            "filesize": 266,
+            "dimensions": [
+                19,
+                14
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/mail_546394?term=message&page=1&position=31&page=1&position=31&related_id=546394&origin=search"
+        },
+        {
+            "filename": "Vector-1.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/Vector-1.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-one.json",
+                    "name": "Footer Style One"
+                },
+                {
+                    "source": "templates\/footer-style-two.json",
+                    "name": "Footer Style Two"
+                }
+            ],
+            "filesize": 282,
+            "dimensions": [
+                18,
+                18
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/telephone_159832?term=phone&page=1&position=9&page=1&position=9&related_id=159832&origin=search"
+        },
+        {
+            "filename": "Line.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/Line.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-one.json",
+                    "name": "Footer Style One"
+                }
+            ],
+            "filesize": 82,
+            "dimensions": [
+                105,
+                1
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "home-three-footer.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/home-three-footer-800x175.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-two.json",
+                    "name": "Footer Style Two"
+                }
+            ],
+            "filesize": 6202,
+            "dimensions": [
+                1920,
+                420
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "banner-01.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/banner-01-800x292.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 204131,
+            "dimensions": [
+                1920,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/worker-grinding-metal-metal-grinding-machine-with--MGR6YJ2"
+        },
+        {
+            "filename": "bg-effect.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/bg-effect-800x330.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 15180,
+            "dimensions": [
+                1920,
+                791
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-1.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/image-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 52766,
+            "dimensions": [
+                390,
+                218
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/holding-plan-in-hands-construction-worker-in-unifo-HZRCPZM"
+        },
+        {
+            "filename": "image-1-1.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/image-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 34089,
+            "dimensions": [
+                390,
+                218
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/handyman-in-yellow-uniform-installs-new-window-by--T9TTCND"
+        },
+        {
+            "filename": "text.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/text.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 2298,
+            "dimensions": [
+                390,
+                205
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "box-img-03.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/box-img-03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 45237,
+            "dimensions": [
+                390,
+                218
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/construction-engineer-with-foreman-worker-checking-G3D4BQJ"
+        },
+        {
+            "filename": "icon-14.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/icon-14.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 774,
+            "dimensions": [
+                56,
+                56
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/report_3028661?term=finance&page=1&position=9&page=1&position=9&related_id=3028661&origin=search"
+        },
+        {
+            "filename": "icon-15.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/icon-15.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 575,
+            "dimensions": [
+                53,
+                55
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/factory_861164?term=industry&page=1&position=7&page=1&position=7&related_id=861164&origin=search"
+        },
+        {
+            "filename": "icon-16.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/icon-16.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 701,
+            "dimensions": [
+                44,
+                56
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/solution_2752481?term=solution&page=1&position=2&page=1&position=2&related_id=2752481&origin=search"
+        },
+        {
+            "filename": "bg-1.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/bg-1-800x225.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 5290,
+            "dimensions": [
+                1474,
+                415
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "2.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 68000,
+            "dimensions": [
+                600,
+                595
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/construction-worker-in-action-P2LH6PA"
+        },
+        {
+            "filename": "icon.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/icon.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 629,
+            "dimensions": [
+                43,
+                53
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/onedrive.live.com\/edit.aspx?resid=F6E491CC65056F7F!268&ithint=file%2cxlsx&wdOrigin=OFFICECOM-WEB.START.MRU"
+        },
+        {
+            "filename": "icon-1.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 664,
+            "dimensions": [
+                45,
+                51
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/graph_2511405?term=financial%20report&page=1&position=15&page=1&position=15&related_id=2511405&origin=search"
+        },
+        {
+            "filename": "Mask-Group-1.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/Mask-Group-1-800x96.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 3492,
+            "dimensions": [
+                1920,
+                230
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "box-line-strock.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/box-line-strock.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 2411,
+            "dimensions": [
+                598,
+                186
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-01.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/image-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 100965,
+            "dimensions": [
+                600,
+                310
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/contractor-with-chainsaw-3U9D2SC"
+        },
+        {
+            "filename": "image-02.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/image-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 121560,
+            "dimensions": [
+                600,
+                310
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/yellow-mini-excavator-digging-fence-foundation-bet-PYMS4ME"
+        },
+        {
+            "filename": "image-03.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/image-03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 99011,
+            "dimensions": [
+                600,
+                310
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/man-welding-P2R39TJ"
+        },
+        {
+            "filename": "1.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 79609,
+            "dimensions": [
+                600,
+                310
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/passing-down-the-underground-tunnel-PWUBXS3"
+        },
+        {
+            "filename": "testi-01.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/testi-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 6160,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/portrait-face-of-caucasian-businessman-SLJQX52"
+        },
+        {
+            "filename": "placeholder-34.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/placeholder-34-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                }
+            ],
+            "filesize": 5203,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-35.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/placeholder-35-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                }
+            ],
+            "filesize": 5203,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "girl.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/girl.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                }
+            ],
+            "filesize": 8643,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/beautiful-woman-face-natural-portrait-TYTS645"
+        },
+        {
+            "filename": "placeholder-36.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/placeholder-36-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                }
+            ],
+            "filesize": 5203,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-37.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/placeholder-37-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                }
+            ],
+            "filesize": 5203,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "why-choose-us.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/why-choose-us-800x342.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 16422,
+            "dimensions": [
+                1920,
+                821
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/residential-building-blueprint-plans-banner-3d-ill-TDLCQXK"
+        },
+        {
+            "filename": "why-choose-us-1.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/why-choose-us-1-800x443.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 127403,
+            "dimensions": [
+                1050,
+                581
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/construction-contractor-on-his-pickup-truck-HNXZG6U"
+        },
+        {
+            "filename": "logo-1.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 1112,
+            "dimensions": [
+                172,
+                40
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/growth-logo-54DG74"
+        },
+        {
+            "filename": "logo-2.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 1485,
+            "dimensions": [
+                218,
+                40
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/house-statistics-logo-K8WCBFB"
+        },
+        {
+            "filename": "logo-3.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/logo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 1396,
+            "dimensions": [
+                222,
+                41
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/crown-house-real-estate-logo-W9T97Q"
+        },
+        {
+            "filename": "logo-4.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/logo-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 945,
+            "dimensions": [
+                52,
+                51
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/children-care-logo-template-VA8377"
+        },
+        {
+            "filename": "logo-5.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/06\/logo-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 1267,
+            "dimensions": [
+                171,
+                39
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/castle-logo-M2LV8K"
+        },
+        {
+            "filename": "banner-02.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/banner-02-800x271.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 224390,
+            "dimensions": [
+                1920,
+                651
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/turbine-manufacturing-factory-interior-nobody-7FCC3M4"
+        },
+        {
+            "filename": "left-section-2.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/left-section-2-800x505.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 9034,
+            "dimensions": [
+                1031,
+                651
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "home-two-service-back.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/home-two-service-back-800x246.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 15492,
+            "dimensions": [
+                1920,
+                591
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "service-01.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/service-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 697,
+            "dimensions": [
+                71,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/policy_1456888?term=contract&page=1&position=16&page=1&position=16&related_id=1456888&origin=search"
+        },
+        {
+            "filename": "service-02.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/service-02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 904,
+            "dimensions": [
+                64,
+                65
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/presentation_4786081?term=project%20plan&page=3&position=24&page=3&position=24&related_id=4786081&origin=search"
+        },
+        {
+            "filename": "service-03.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/service-03.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 998,
+            "dimensions": [
+                66,
+                66
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/carpet_3351986?term=interior&page=4&position=24&page=4&position=24&related_id=3351986&origin=search"
+        },
+        {
+            "filename": "halmet.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/halmet.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 812,
+            "dimensions": [
+                66,
+                66
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/helmet_394523?related_id=394523"
+        },
+        {
+            "filename": "about-back.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/about-back-800x262.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 13610,
+            "dimensions": [
+                1920,
+                629
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/talking-by-phone-construction-worker-in-uniform-an-6CZN72P"
+        },
+        {
+            "filename": "about-us.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/about-us.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 148627,
+            "dimensions": [
+                600,
+                470
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/three-builders-discussing-blueprint-outdoors-4U494RQ"
+        },
+        {
+            "filename": "home-two-icon-1.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/home-two-icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 686,
+            "dimensions": [
+                38,
+                47
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/innovation_912278?term=innovation&page=1&position=2&page=1&position=2&related_id=912278&origin=search"
+        },
+        {
+            "filename": "home-two-icon-3.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/home-two-icon-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 480,
+            "dimensions": [
+                45,
+                43
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/factory_3885248?term=industry&page=2&position=6&page=2&position=6&related_id=3885248&origin=search"
+        },
+        {
+            "filename": "home-two-icon-5.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/home-two-icon-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 623,
+            "dimensions": [
+                35,
+                44
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/solution_2752481?term=solutions&page=1&position=2&page=1&position=2&related_id=2752481&origin=search"
+        },
+        {
+            "filename": "mid-imae.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/mid-imae.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 65372,
+            "dimensions": [
+                330,
+                372
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/holding-plan-in-hands-construction-worker-in-unifo-HZRCPZM"
+        },
+        {
+            "filename": "home-two-icon-2.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/home-two-icon-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 680,
+            "dimensions": [
+                47,
+                47
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/globe_2922260?term=technology&page=2&position=59&page=2&position=59&related_id=2922260&origin=search"
+        },
+        {
+            "filename": "home-two-icon-4.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/home-two-icon-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 625,
+            "dimensions": [
+                44,
+                43
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/loudspeaker_1378542?term=comunication&page=3&position=2&page=3&position=2&related_id=1378542&origin=search"
+        },
+        {
+            "filename": "home-two-icon-6.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/home-two-icon-6.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 510,
+            "dimensions": [
+                44,
+                43
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/strategy_5091896?term=project%20solutions&page=1&position=96&page=1&position=96&related_id=5091896&origin=search"
+        },
+        {
+            "filename": "work-01.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/work-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 63558,
+            "dimensions": [
+                285,
+                367
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/railway-bridge-PW69TRX"
+        },
+        {
+            "filename": "work-02.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/work-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 29007,
+            "dimensions": [
+                285,
+                367
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/modern-office-building-facade-5R9JTHP"
+        },
+        {
+            "filename": "work-03.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/work-03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 58910,
+            "dimensions": [
+                285,
+                367
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/staircase-at-outdoor-2B6Y87G"
+        },
+        {
+            "filename": "work-04.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/work-04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 73056,
+            "dimensions": [
+                285,
+                367
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/tunnel-A6FBRLC"
+        },
+        {
+            "filename": "work-05.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/work-05.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 53586,
+            "dimensions": [
+                285,
+                367
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/low-angle-view-of-two-workers-arranging-fresh-asph-3Q7LT9M"
+        },
+        {
+            "filename": "work-06.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/work-06.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 60132,
+            "dimensions": [
+                285,
+                367
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/workers-in-reflective-vests-using-shovels-during-c-F4VUZD5"
+        },
+        {
+            "filename": "work-07.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/work-07.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 49269,
+            "dimensions": [
+                285,
+                367
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/metal-construction-bridge-PBZ767R"
+        },
+        {
+            "filename": "work-08.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/work-08.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 68223,
+            "dimensions": [
+                285,
+                367
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/office-building-skyscraper-exterior-of-building-9PPQNQD"
+        },
+        {
+            "filename": "home-two-box-back.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/home-two-box-back-800x354.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 10452,
+            "dimensions": [
+                1920,
+                850
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "technology-01.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/technology-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 128281,
+            "dimensions": [
+                600,
+                350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/worker-and-stock-with-rolls-of-sheet-steel-in-indu-QNV3XS3"
+        },
+        {
+            "filename": "technology-02.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/technology-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 97967,
+            "dimensions": [
+                600,
+                350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/male-technician-works-on-lathe-plant-DE2JJ6M"
+        },
+        {
+            "filename": "image-6.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-6.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 4426,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/mature-construction-worker-holding-tablet-7K8MXMG"
+        },
+        {
+            "filename": "5.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/5-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 135181,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/construction-site-in-hong-kong-5SZAUT9"
+        },
+        {
+            "filename": "top-1-1.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/top-1-1-800x127.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 2898,
+            "dimensions": [
+                1920,
+                305
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "top-curve.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/top-curve.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 9343,
+            "dimensions": [
+                409,
+                284
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "banner-lower-image-2.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/banner-lower-image-2-800x322.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 17944,
+            "dimensions": [
+                1920,
+                773
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "home-three-project-1.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/home-three-project-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 523,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/premium-icon\/contract_420247?term=contract&page=10&position=63&page=10&position=63&related_id=420247&origin=search"
+        },
+        {
+            "filename": "home-three-project-2.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/home-three-project-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 541,
+            "dimensions": [
+                65,
+                66
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/tactic_4245299?term=planning&page=2&position=92&page=2&position=92&related_id=4245299&origin=search"
+        },
+        {
+            "filename": "home-three-project-3.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/home-three-project-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 457,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/frame_4629922?term=interior%20design&page=2&position=20&page=2&position=20&related_id=4629922&origin=search"
+        },
+        {
+            "filename": "home-three-project-4.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/home-three-project-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 500,
+            "dimensions": [
+                66,
+                65
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/blueprint_662425?related_id=662425"
+        },
+        {
+            "filename": "effect.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/effect-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 5325,
+            "dimensions": [
+                924,
+                924
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-3-1.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-3-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 155100,
+            "dimensions": [
+                600,
+                456
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/excavation-construction-works-ZU6584Y"
+        },
+        {
+            "filename": "image-01.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 46271,
+            "dimensions": [
+                495,
+                257
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/construction-worker-in-uniform-and-safety-equipmen-33JXWHT"
+        },
+        {
+            "filename": "image-02.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 52907,
+            "dimensions": [
+                495,
+                257
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/construction-of-an-overhead-mass-rail-transit-trai-P3DWMVD"
+        },
+        {
+            "filename": "image-2-1.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-2-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 88715,
+            "dimensions": [
+                390,
+                544
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/worker-checks-turbine-impeller-vanes-on-factory-K7SVA7X"
+        },
+        {
+            "filename": "image-04.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 45591,
+            "dimensions": [
+                285,
+                257
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/workers-in-reflective-vests-using-shovels-during-c-F4VUZD5"
+        },
+        {
+            "filename": "image-05.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-05.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 39621,
+            "dimensions": [
+                285,
+                257
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/trawlers-at-the-dry-dock-PTMXHTP"
+        },
+        {
+            "filename": "black-image-1.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/black-image-1-800x626.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 3921,
+            "dimensions": [
+                907,
+                710
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 628,
+            "dimensions": [
+                37,
+                47
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/corporate_2260768?term=corporate&related_id=2260768"
+        },
+        {
+            "filename": "icon-1.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 656,
+            "dimensions": [
+                47,
+                47
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/satisfaction_2618081?term=satisfaction&page=1&position=3&page=1&position=3&related_id=2618081&origin=search"
+        },
+        {
+            "filename": "image-1.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-1-800x560.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 78139,
+            "dimensions": [
+                1014,
+                710
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/bulldozer-professional-mechanic-NWUABG8"
+        },
+        {
+            "filename": "hand.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/hand.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 489,
+            "dimensions": [
+                33,
+                23
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/handshake_3439283?term=handshake&page=1&position=3&page=1&position=3&related_id=3439283&origin=search"
+        },
+        {
+            "filename": "radio.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/radio.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 408,
+            "dimensions": [
+                36,
+                23
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/premium-icon\/license_4208437?term=licensed&page=1&position=6&page=1&position=6&related_id=4208437&origin=search"
+        },
+        {
+            "filename": "cap.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/cap.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 433,
+            "dimensions": [
+                35,
+                23
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/premium-icon\/helmet_2576548?term=helmet&page=1&position=3&page=1&position=3&related_id=2576548&origin=search"
+        },
+        {
+            "filename": "cup.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/cup.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 414,
+            "dimensions": [
+                24,
+                27
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/trophy_2618179?term=award&page=1&position=38&page=1&position=38&related_id=2618179&origin=search"
+        },
+        {
+            "filename": "traigle.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/traigle-800x35.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 1868,
+            "dimensions": [
+                1920,
+                83
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-06.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-06.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 33576,
+            "dimensions": [
+                285,
+                267
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/drawing-project-PN4D3Y8"
+        },
+        {
+            "filename": "image-section.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-section.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 47195,
+            "dimensions": [
+                285,
+                267
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/construction-worker-planing-wood-with-electric-pla-ACZK6PZ"
+        },
+        {
+            "filename": "image-section-1.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-section-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 42440,
+            "dimensions": [
+                285,
+                267
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/construction-engineers-discussion-with-architects--Q6R7XW3"
+        },
+        {
+            "filename": "image-08.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-08.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 18800,
+            "dimensions": [
+                285,
+                267
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/architects-handshaking-PNPASTD"
+        },
+        {
+            "filename": "build-back-2.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/build-back-2-800x181.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 256737,
+            "dimensions": [
+                1920,
+                435
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/office-building-skyscraper-exterior-of-building-9PPQNQD"
+        },
+        {
+            "filename": "build-rounded.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/build-rounded-800x181.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home Version Three"
+                }
+            ],
+            "filesize": 3547,
+            "dimensions": [
+                1920,
+                435
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "about-banner.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/about-banner-800x118.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 154784,
+            "dimensions": [
+                1920,
+                282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/male-architects-analyzing-blueprint-at-constructio-MDT5VYM"
+        },
+        {
+            "filename": "icon-5.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-5.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 875,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/engineer_1098420?term=industry&page=1&position=38&page=1&position=38&related_id=1098420&origin=search"
+        },
+        {
+            "filename": "icon-7.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-7.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 874,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/analysis_1006585?term=planning%20strategy&page=1&position=9&page=1&position=9&related_id=1006585&origin=search"
+        },
+        {
+            "filename": "icon-6.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-6.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 598,
+            "dimensions": [
+                69,
+                61
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/download\/icon\/landing\/4470810?format=png&size=512"
+        },
+        {
+            "filename": "icon-8.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-8.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 672,
+            "dimensions": [
+                42,
+                62
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/hour-glass_3891900?term=hour%20glass&page=1&position=17&page=1&position=17&related_id=3891900&origin=search"
+        },
+        {
+            "filename": "image-section-1-1.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-section-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 68954,
+            "dimensions": [
+                600,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/team-of-engineers-discussing-architecture-plan-ske-XKXLEVD"
+        },
+        {
+            "filename": "1-1.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 40065,
+            "dimensions": [
+                600,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/group-of-construction-engineer-working-in-construc-Q3UAFYG"
+        },
+        {
+            "filename": "icon-2.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-2.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 918,
+            "dimensions": [
+                58,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/premium-icon\/trophy_1926019?term=best%20quality&page=5&position=58&page=5&position=58&related_id=1926019&origin=search"
+        },
+        {
+            "filename": "icon-1-1.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1293,
+            "dimensions": [
+                93,
+                63
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/handshake_3439283?term=handshake&page=1&position=4&page=1&position=4&related_id=3439283&origin=search"
+        },
+        {
+            "filename": "icon-2-1.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 796,
+            "dimensions": [
+                66,
+                66
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/rating_3716717?term=experts&page=1&position=2&page=1&position=2&related_id=3716717&origin=search"
+        },
+        {
+            "filename": "yellow-bg-effect.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/yellow-bg-effect-800x250.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 8900,
+            "dimensions": [
+                1921,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "3-1.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/3-1-800x435.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 99331,
+            "dimensions": [
+                810,
+                440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/construction-engineers-discussion-with-architects--Q6R7XW3"
+        },
+        {
+            "filename": "Vector.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/Vector.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2850,
+            "dimensions": [
+                410,
+                356
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image-section-2.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-section-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 90278,
+            "dimensions": [
+                286,
+                340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/confident-construction-engineer-architect-business-VEMAJ6G"
+        },
+        {
+            "filename": "image-section-1-2.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-section-1-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 72432,
+            "dimensions": [
+                286,
+                340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/portrait-of-female-engineer-on-construction-site-ZT5YFP3"
+        },
+        {
+            "filename": "image-section-2-1.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-section-2-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 97409,
+            "dimensions": [
+                286,
+                340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/with-arms-crossed-construction-worker-in-uniform-a-YM7WZB6"
+        },
+        {
+            "filename": "image-section-3.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-section-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 81581,
+            "dimensions": [
+                286,
+                340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/happy-construction-industry-professional-isolated-MJAD8SY"
+        },
+        {
+            "filename": "4.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/4-800x118.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 88180,
+            "dimensions": [
+                1920,
+                282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/construction-worker-in-action-P2LH6PA"
+        },
+        {
+            "filename": "icon-9.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-9.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 863,
+            "dimensions": [
+                61,
+                63
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/engineer_3976263?term=construction&page=1&position=27&page=1&position=27&related_id=3976263&origin=search"
+        },
+        {
+            "filename": "icon-1-2.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-1-2.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 941,
+            "dimensions": [
+                70,
+                65
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/house_602275?term=building&page=3&position=75&page=3&position=75&related_id=602275"
+        },
+        {
+            "filename": "icon-2-2.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-2-2.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 1022,
+            "dimensions": [
+                76,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/house_602287?term=construction&page=1&position=9&page=1&position=9&related_id=602287&origin=search"
+        },
+        {
+            "filename": "icon-3-1.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-3-1.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 1054,
+            "dimensions": [
+                60,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/maintenance_1613406?term=maintenance&page=1&position=4&page=1&position=4&related_id=1613406&origin=search"
+        },
+        {
+            "filename": "icon-4-1.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-4-1.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 726,
+            "dimensions": [
+                65,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/sketch_681662?term=architecture%20design&page=1&position=2&page=1&position=2&related_id=681662&origin=search"
+        },
+        {
+            "filename": "icon-5-1.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-5-1.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 601,
+            "dimensions": [
+                60,
+                64
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/factory_861164?term=industrial&page=1&position=7&page=1&position=7&related_id=861164&origin=search"
+        },
+        {
+            "filename": "2-1.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/2-1-800x211.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 119409,
+            "dimensions": [
+                1920,
+                507
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/construction-engineers-discussion-with-architects--Q6R7XW3"
+        },
+        {
+            "filename": "image-4.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 150423,
+            "dimensions": [
+                390,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/worker-discussing-contract-details-with-customer-7Y6P9WV"
+        },
+        {
+            "filename": "image-1-1.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 152035,
+            "dimensions": [
+                390,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/looking-into-building-plan-HNVLCNX"
+        },
+        {
+            "filename": "image-2-2.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/image-2-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 256416,
+            "dimensions": [
+                390,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/crane-and-building-construction-site-on-background-YD97VXU"
+        },
+        {
+            "filename": "left-curve.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/left-curve.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 2803,
+            "dimensions": [
+                409,
+                356
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-11.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-11.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 615,
+            "dimensions": [
+                37,
+                47
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/corporate_2260768?term=corporate&related_id=2260768"
+        },
+        {
+            "filename": "icon-12.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-12.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 643,
+            "dimensions": [
+                47,
+                47
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/satisfaction_2618081?term=satisfaction&page=1&position=3&page=1&position=3&related_id=2618081&origin=search"
+        },
+        {
+            "filename": "icon-13.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-13.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 633,
+            "dimensions": [
+                46,
+                46
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/headphones_4642489?term=customer%20service&page=4&position=53&page=4&position=53&related_id=4642489&origin=search"
+        },
+        {
+            "filename": "3.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/3-800x118.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 113899,
+            "dimensions": [
+                1920,
+                282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/construction-contractor-on-his-pickup-truck-HNXZG6U"
+        },
+        {
+            "filename": "icon-14.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-14.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 1051,
+            "dimensions": [
+                89,
+                67
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/helmet_394523?related_id=394523"
+        },
+        {
+            "filename": "Group-17.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/Group-17.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 123,
+            "dimensions": [
+                310,
+                4
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-1-3.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-1-3.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 789,
+            "dimensions": [
+                66,
+                66
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/helmet_972998"
+        },
+        {
+            "filename": "Group-23-1.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/Group-23-1.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 123,
+            "dimensions": [
+                310,
+                4
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-2-3.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-2-3.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 716,
+            "dimensions": [
+                55,
+                69
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/engineer_3716527"
+        },
+        {
+            "filename": "7.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/7-800x118.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 130655,
+            "dimensions": [
+                1920,
+                282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/office-building-K7TM64C"
+        },
+        {
+            "filename": "location-icon-1.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/location-icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 521,
+            "dimensions": [
+                31,
+                42
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/pin_927667?term=location&page=1&position=7&page=1&position=7&related_id=927667&origin=search"
+        },
+        {
+            "filename": "icon-15.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/icon-15.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 334,
+            "dimensions": [
+                31,
+                21
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/mail_546394?term=message&page=1&position=28&page=1&position=28&related_id=546394&origin=search"
+        },
+        {
+            "filename": "phone-icon.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/phone-icon.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 279,
+            "dimensions": [
+                23,
+                43
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/smartphone_2467862?term=phone&page=1&position=36&page=1&position=36&related_id=2467862&origin=search"
+        },
+        {
+            "filename": "8.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/8-800x118.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                }
+            ],
+            "filesize": 79972,
+            "dimensions": [
+                1920,
+                282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/group-of-construction-engineer-working-in-construc-LM42TU3"
+        },
+        {
+            "filename": "6.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/6-800x118.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 91473,
+            "dimensions": [
+                1920,
+                282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/construction-site-worker-2YTBNSV"
+        },
+        {
+            "filename": "blog-inner-2.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/blog-inner-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 35720,
+            "dimensions": [
+                780,
+                447
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multicultural-business-colleagues-working-at-table-25L4SDT"
+        },
+        {
+            "filename": "blog-inner-4.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/blog-inner-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 75112,
+            "dimensions": [
+                780,
+                447
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/worker-grinding-metal-metal-grinding-machine-with--MGR6YJ2"
+        },
+        {
+            "filename": "blog-inner-3-1.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/blog-inner-3-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 74133,
+            "dimensions": [
+                780,
+                447
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/yellow-mini-excavator-digging-fence-foundation-bet-PYMS4ME"
+        },
+        {
+            "filename": "arrow-right.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/arrow-right.png",
+            "templates": [
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 164,
+            "dimensions": [
+                7,
+                9
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "blog-single-side.jpg",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/blog-single-side.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 67482,
+            "dimensions": [
+                296,
+                364
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/es-419\/contractor-with-chainsaw-3U9D2SC"
+        },
+        {
+            "filename": "404-section.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/404-section.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 9821,
+            "dimensions": [
+                532,
+                261
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-18.png",
+            "thumbnail_url": "https:\/\/indusc.radiantthemes.com\/wp-content\/uploads\/2021\/07\/Group-18.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 304,
+            "dimensions": [
+                442,
+                24
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+[04-Sep-2024 05:27:14 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/brmk/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/brmk/public_html/wp-includes/blocks/index.php on line 8
+[16-Sep-2024 04:45:53 America/Fortaleza] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home2/brmk/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home2/brmk/public_html/wp-includes/blocks/index.php on line 8

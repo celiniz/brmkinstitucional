@@ -1,0 +1,24 @@
+[04-Sep-2024 05:27:33 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home2/brmk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/brmk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Sep-2024 04:46:30 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home2/brmk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/brmk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[05-Dec-2024 17:33:52 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home2/brmk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/brmk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[14-Jan-2025 02:25:14 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home2/brmk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/brmk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-May-2025 06:28:09 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home2/brmk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/brmk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Jun-2025 04:13:46 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "WP_Widget" not found in /home2/brmk/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/brmk/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
